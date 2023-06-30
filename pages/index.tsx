@@ -36,7 +36,7 @@ const Home: NextPage = () => {
           </div>
           <div className={styles.heroBody}>
             <h1 className={styles.heroTitle}>
-              DaisyMarkt
+              Oyna NFT Market
             </h1>
           </div>
           <Link className={styles.heroCta} href="/buy">
